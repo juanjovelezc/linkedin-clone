@@ -40,7 +40,13 @@ function Feed() {
     }
     return (
         <div className='feed'>
+<<<<<<< HEAD
             <p>Parrafo para hacer un ejemplo sisas!</p>
+=======
+            <div><title>Este es el feed!!</title></div>
+            <h1>Esto es una prueba para realizar un branch</h1>
+            <h2>asasasa</h2>
+>>>>>>> feature_feed
             <div className='feed__inputContainer'>
                 <div className='feed__input'>
                     <CreateIcon />
