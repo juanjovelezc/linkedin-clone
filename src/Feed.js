@@ -40,6 +40,7 @@ function Feed() {
     }
     return (
         <div className='feed'>
+            <p>Parrafo para hacer un ejemplo sisas!</p>
             <div className='feed__inputContainer'>
                 <div className='feed__input'>
                     <CreateIcon />
