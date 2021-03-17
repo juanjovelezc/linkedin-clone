@@ -41,12 +41,8 @@ function Feed() {
     return (
         <div className='feed'>
             <p>En el proximo div irá un ejemplo de cualquier cosa.</p>
-<<<<<<< HEAD
 
             <p>Otro parrafo intentando que esto funcione</p>
-=======
-            <h1>Otro maldito intento de realizar el merge</h1>
->>>>>>> feature_1
             <div className='feed__inputContainer'>
                 <div className='feed__input'>
                     <CreateIcon />
