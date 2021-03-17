@@ -42,6 +42,7 @@ function Feed() {
         <div className='feed'>
             <p>En el proximo div irá un ejemplo de cualquier cosa.</p>
             <h>No me funciona nada ome</h>
+            <h>Saludos master</h>
             <div className='feed__inputContainer'>
                 <div className='feed__input'>
                     <CreateIcon />
