@@ -43,10 +43,13 @@
   
 }
 
-.h1 {
-  color:black;
-}
+
 
 .h2{
   background-color: white;
+}
+
+.feed > h1 {
+  background-color: aqua;
+  color: #000;
 }
