@@ -22,7 +22,7 @@ export const userSlice = createSlice({
   },
 });
 
-export const { ilogin, logout } = userSlice.actions;
+export const { login, logout } = userSlice.actions;
 
 export const selectUser = state => state.user.value;
 
