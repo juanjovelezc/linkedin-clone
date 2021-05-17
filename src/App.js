@@ -8,6 +8,7 @@ import Login from './Login';
 import { login, logout, selectUser } from './features/userSlice';
 import { auth } from './firebase';
 import { useEffect } from 'react';
+import Widgets from './Widgets';
 
   function App() {
 
@@ -38,7 +39,7 @@ import { useEffect } from 'react';
           <div className='app__body'>
             <Sidebar />
               <Feed />
-          
+            <Widgets />
           </div>
           )}
         </div>
